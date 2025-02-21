@@ -1,7 +1,7 @@
 //questao 41
 
 let peso = 100; // em quilo
-let engodar = peso * 1.15;
+let engordar = peso * 1.15;
 let emagrecer = peso * 0.80
 
 console.log("Peso atual: " + peso);
