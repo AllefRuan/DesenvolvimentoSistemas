@@ -8,3 +8,4 @@ let texto2 = "JavaScript";
 
 console.log(n1, ",", n2, ",", n3,",", n4, ",", n5, "...", texto, texto2 );
 
+
